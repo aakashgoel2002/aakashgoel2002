@@ -18,7 +18,6 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashgoel2002&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgoel2002" /> </p>
 <p align="center">
-⚡️ **A Few Quick Facts**
 - 👨‍💻 I’m currently working on **Andorid**, **Java**, **Kotlin** and **C** 😉.
 
 - 🌱 I’m currently learning **C++**.
