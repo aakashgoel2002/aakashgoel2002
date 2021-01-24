@@ -2,7 +2,7 @@
 
 <p align="center">
 <samp>
-    I'm Aakash Goel, currently Pursuing B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University :school: </a>. I am tech enthusiast as well as a self-taught Passionate Android Developer,I love to build Full Stack Android Application. Occasionaly I do participate in Hackathons:bulb: and I enjoy learning new technologies.
+    I'm Aakash Goel, currently Pursuing B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University :school: </a>. I am tech enthusiast as well as a self-taught Passionate Android Developer,I love to build Full Stack Android Application. Occasionaly I do participate in Hackathons:bulb: and I enjoy learning new technologies:man_technologist:.
   </samp>
 </p>
 <p align="center">
@@ -13,7 +13,8 @@
   <img align="center" alt="Aakash's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://dev.to/aakashgoel2002/">
-  <img align="center" alt="Aakash's Dev Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/dev-dot-to.svg" />
+  <img align="center" alt="Aakash's Dev Profile" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
 </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashgoel2002&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgoel2002" /> </p>
+
