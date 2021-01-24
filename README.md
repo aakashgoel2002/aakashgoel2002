@@ -18,7 +18,9 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashgoel2002&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgoel2002" /> 
 <p align="left">
-⚡️ **A Few Quick Facts**
+    
+**A Few Quick Facts:**
+
 - 👨‍💻 I’m currently working on **Andorid**, **Java**, **Kotlin** and **C** 😉.
 
 - 🌱 I’m currently learning **C++**.
@@ -34,7 +36,9 @@
 - 😊 **YOLO**(You Only Live Once)
 </p>
 <p align="center">
-**Languages and Tools**
+    
+**Languages and Tools **
+
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashgoel2002&show_icons=true&locale=en&layout=compact" alt="aakashgoel2002" /></p>
