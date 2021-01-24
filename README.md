@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aakash</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashgoel2002&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgoel2002" /> </p>
 
