@@ -8,10 +8,10 @@
 <a href="https://www.linkedin.com/in/aakashgoel2002/">
   <img align="left" alt="Aakash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://dev.to/aakashgoel2002/">
-  <img align="left" alt="Aakash's Dev Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/dev-dot-to.svg" />
-</a>
 <a href="https://twitter.com/aakashgoel2002">
   <img align="left" alt="Aakash's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://dev.to/aakashgoel2002/">
+  <img align="left" alt="Aakash's Dev Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/dev-dot-to.svg" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashgoel2002&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgoel2002" /> </p>
