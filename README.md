@@ -5,6 +5,7 @@
     I'm Aakash Goel, currently Pursuing B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University :school: </a>. I am tech enthusiast as well as a self-taught Passionate Android Developer,I love to build Full Stack Android Application. Occasionaly I do participate in Hackathons:bulb: and I enjoy learning new technologies.
   </samp>
 </p>
+<p align="center">
 <a href="https://www.linkedin.com/in/aakashgoel2002/">
   <img align="center" alt="Aakash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -14,4 +15,5 @@
 <a href="https://dev.to/aakashgoel2002/">
   <img align="center" alt="Aakash's Dev Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/dev-dot-to.svg" />
 </a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashgoel2002&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgoel2002" /> </p>
