@@ -1,10 +1,8 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Devs,</h1>
-<h3 align="center">A Passionate Android Developer</h3>
-***
 
 <p align="center">
 <samp>
-    I'm Aakash Goel, currently Pursuing B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University :school: </a>. I am tech enthusiast,I love to build Full Stack Android Application. Occasionaly I do participate in Hackathons:bulb: and I enjoy learning new technologies.
+    I'm Aakash Goel, currently Pursuing B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University :school: </a>. I am tech enthusiast as well as a self-taught Passionate Android Developer,I love to build Full Stack Android Application. Occasionaly I do participate in Hackathons:bulb: and I enjoy learning new technologies.
   </samp>
 </p>
 
