@@ -18,7 +18,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashgoel2002&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgoel2002" /> 
 <p align="right">
-    <img align="right" alt="GIF" src="https://github.com/aakashgoel2002/aakashgoel2002/blob/main/code.gif?raw=true" width="500" height="320" />
+    <img align="right" alt="GIF" src="https://github.com/aakashgoel2002/aakashgoel2002/blob/main/assets/code.gif?raw=true" width="500" height="320" />
     </p>
 <p align="left">
     
