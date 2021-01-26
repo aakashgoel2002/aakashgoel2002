@@ -48,7 +48,7 @@
 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/java.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/c.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> 
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/kotlin.svg" alt="kotlin" width="35" height="35"/> </a> 
 <a href="https://developer.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/android.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/visualStudioCode.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/intellijIdea.svg" alt="git" width="40" height="40"/> </a>
