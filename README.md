@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Devs,</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/hello.gif" width="25px"> Devs,</h1>
 
 <p align="center">
 <samp>
