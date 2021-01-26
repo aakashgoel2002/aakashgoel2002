@@ -7,13 +7,13 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/aakashgoel2002/">
-  <img align="center" alt="Aakash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Aakash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/aakashgoel2002">
-  <img align="center" alt="Aakash's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Aakash's Twitter" width="22px" src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/twitter.svg" />
 </a>
 <a href="https://dev.to/aakashgoel2002/">
-  <img align="center" alt="Aakash's Dev Profile" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+  <img align="center" alt="Aakash's Dev Profile" width="26px" src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/devto.svg" />
 </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashgoel2002&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgoel2002" /> 
