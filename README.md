@@ -6,7 +6,7 @@
   </samp>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/aakashgoel2002/" target="_blank">
+<a href="https://www.linkedin.com/in/aakashgoel2002/">
   <img align="center" alt="Aakash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/aakashgoel2002/aakashgoel2002/main/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/aakashgoel2002">
