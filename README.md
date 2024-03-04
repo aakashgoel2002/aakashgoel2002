@@ -2,7 +2,7 @@
 
 <p align="center">
 <samp>
-    I'm Aakash Goel, currently Pursuing B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University</a>:school:. I am tech enthusiast as well as a self-taught Passionate Android Developer,I love to build Full Stack Android Application. Occasionaly I do participate in Hackathons:bulb: and I enjoy learning new technologies:man_technologist:.
+    I'm Aakash Goel, currently Pursuing B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University</a>:school:. I am tech enthusiast as well as a self-taught DevOps Engineer,I love to deploy applications. Occasionally I participate in Hackathons:bulb: and enjoy learning new technologies:man_technologist:.
   </samp>
 </p>
 <p align="center">
@@ -24,17 +24,17 @@
     
 **A Few Quick Facts:**
 
-- 👨‍💻 I’m currently working on **Andorid**, **Java**, **Kotlin** and **C**.
+- 👨‍💻 I’m currently working on **AWS**, **Docker**, **Kubernetes**, **Jenkins** and **Python**.
 
-- 🌱 I’m currently learning **C++**.
+- 🌱 I’m currently learning **Security Operations**.
 
-- 💬 Ping me about **Android Development** stuff.
+- 💬 Ping me about **Cloud & DevOps** stuff.
 
 - 📫 Reach me on **aakashgoel2002@gmail.com**
 
 - 👨‍💻 Some of my projects are available on <a href="https://github.com/aakashgoel2002?tab=repositories">**Github**</a>.
 
-- 📄 <a href="https://drive.google.com/file/d/1R59kLv-ZM4WS77Y4t5T94GFwoFtN_YWb/view?usp=sharing">**Resume**</a>
+- 📄 <a href="https://drive.google.com/file/d/1__dAaNgT7R284tzPhipaqQ5-_mFYwhcd/view?usp=sharing">**Resume**</a>
 
 - 😊 **YOLO**(You Only Live Once)
 <br/>
