@@ -2,7 +2,7 @@
 
 <p align="center">
 <samp>
-    I'm Aakash Goel, currently Pursuing B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University</a>:school:. I am tech enthusiast as well as a self-taught DevOps Engineer,I love to deploy applications. Occasionally I participate in Hackathons:bulb: and enjoy learning new technologies:man_technologist:.
+    I'm Aakash Goel, currently Pursuing B.E. in CSE from <a href="https://www.cuchd.in/">Chandigarh University</a>:school:. I am a tech enthusiast as well as a self-taught DevOps Engineer,I love to deploy applications. Occasionally I participate in Hackathons:bulb: and enjoy learning new technologies:man_technologist:.
   </samp>
 </p>
 <p align="center">
