@@ -1,4 +1,4 @@
-<h1 align="center">Aakash Goel — Data Engineer & Analyst</h1>
+<h1 align="center">Aakash Goel - Data Engineer & Analyst</h1>
 
 <p align="center">
 <samp>
