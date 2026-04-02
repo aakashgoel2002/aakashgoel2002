@@ -46,4 +46,4 @@ Claude (AI Agents) · Gemini (LLM-generated reports) · Automated alerting pipel
 - 💬 Ask me about data pipelines, dbt, Airflow, AWS, BI dashboards, LLM automations
 - 📫 aakashgoel2002@gmail.com
 - 👨‍💻 Projects → [github.com/aakashgoel2002](https://github.com/aakashgoel2002?tab=repositories)
-- 📄 [Resume](https://drive.google.com/file/d/1__dAaNgT7R284tzPhipaqQ5-_mFYwhcd/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1PIQjmJs3XvtYb5e21qDCqc2mEtWqeiCz/view?usp=sharing)
