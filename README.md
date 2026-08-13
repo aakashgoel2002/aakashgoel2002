@@ -1,4 +1,4 @@
-<h1 align="center">Aakash Goel - Data Engineer & Analyst</h1>
+<h1 align="center">Aakash Goel - Analytics Engineer</h1>
 
 <p align="center">
 <samp>
@@ -20,7 +20,7 @@
 
 ---
 
-💼 **Currently:** Lead Data Engineer @ Finarkein Analytics (Sep 2024 – present)
+💼 **Currently:** Lead Analytics Engineer @ Finarkein Analytics (Sep 2024 – present)
 
 ---
 
@@ -45,5 +45,5 @@ Claude (AI Agents) · Gemini (LLM-generated reports) · Automated alerting pipel
 **A few facts:**
 - 💬 Ask me about data pipelines, dbt, Airflow, AWS, BI dashboards, LLM automations
 - 📫 aakashgoel2002@gmail.com
-- 👨‍💻 Projects → [github.com/aakashgoel2002](https://github.com/aakashgoel2002?tab=repositories)
-- 📄 [Resume](https://drive.google.com/file/d/1s34BLNq3qIZfKZgbxeaNycJ5ABSr9y80/view?usp=sharing)
+<!-- - 👨‍💻 Projects → [github.com/aakashgoel2002](https://github.com/aakashgoel2002?tab=repositories)
+- 📄 [Resume](https://drive.google.com/file/d/1s34BLNq3qIZfKZgbxeaNycJ5ABSr9y80/view?usp=sharing)-->
